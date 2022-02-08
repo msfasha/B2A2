@@ -1,6 +1,6 @@
 # Bracket Based Arabic Annotation
 
-A simple tool to annotate Arbic Text for reserch purposes.
+A simple tool to annotate Arbic Text for research purposes.
 
 <img src="./assets/b2a2.png"/>
 
